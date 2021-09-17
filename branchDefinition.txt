@@ -1,0 +1,1 @@
+When we create a new branch, we copy all of parent branch data to a new branch. All of the change we made in new one will not affect to parent branch. So, "Create new branch ASAP!!!"
